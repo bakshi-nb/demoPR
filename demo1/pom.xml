@@ -17,7 +17,7 @@
 		
 		
    <!-- Note: If your ACR name contains upper case characters, be sure to convert them to lower case characters. -->
-   <docker.image.prefix>testregistries.azurecr.io</docker.image.prefix>
+   <docker.image.prefix>mycontainersreg.azurecr.io</docker.image.prefix>
    <jib-maven-plugin.version>2.5.2</jib-maven-plugin.version>
    <java.version>1.8</java.version>
 
